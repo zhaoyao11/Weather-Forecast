@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/CityManager",
+    "pages/SearchPage",
+    "pages/fifteen_days",
+    "pages/VideoPage"
+  ]
+}

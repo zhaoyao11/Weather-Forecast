@@ -1,0 +1,100 @@
+{
+  "id": "4644546",
+  "name": "weather",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2878424",
+      "name": "日晴",
+      "font_class": "riqing",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2878426",
+      "name": "夜晴",
+      "font_class": "yeqing",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "4562815",
+      "name": "多云",
+      "font_class": "duoyun",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "9165642",
+      "name": "空气质量",
+      "font_class": "kongqizhiliang",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "14145107",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "15284864",
+      "name": "水滴",
+      "font_class": "shuidi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "15432413",
+      "name": "下雨-大暴雨",
+      "font_class": "xiayu-dabaoyu",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "15432418",
+      "name": "下雨-雷暴雨",
+      "font_class": "xiayu-leibaoyu",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "15432425",
+      "name": "下雨-中雨",
+      "font_class": "xiayu-zhongyu",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "15432432",
+      "name": "下雨-小雨",
+      "font_class": "xiayu-xiaoyu",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "23079152",
+      "name": "阴天",
+      "font_class": "yintian",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "26482051",
+      "name": "圣诞-下雪",
+      "font_class": "shengdan-xiaxue",
+      "unicode": "e7ac",
+      "unicode_decimal": 59308
+    },
+    {
+      "icon_id": "27770259",
+      "name": "箭头向下",
+      "font_class": "jiantouxiangxia",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    }
+  ]
+}

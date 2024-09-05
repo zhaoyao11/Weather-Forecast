@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4644546 */
+  src: url('iconfont.woff2?t=1722909789584') format('woff2'),
+       url('iconfont.woff?t=1722909789584') format('woff'),
+       url('iconfont.ttf?t=1722909789584') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-riqing:before {
+  content: "\e601";
+}
+
+.icon-yeqing:before {
+  content: "\e602";
+}
+
+.icon-duoyun:before {
+  content: "\e616";
+}
+
+.icon-kongqizhiliang:before {
+  content: "\e6b6";
+}
+
+.icon-bofang:before {
+  content: "\e73f";
+}
+
+.icon-shuidi:before {
+  content: "\e600";
+}
+
+.icon-xiayu-dabaoyu:before {
+  content: "\e69d";
+}
+
+.icon-xiayu-leibaoyu:before {
+  content: "\e69e";
+}
+
+.icon-xiayu-zhongyu:before {
+  content: "\e69f";
+}
+
+.icon-xiayu-xiaoyu:before {
+  content: "\e6a0";
+}
+
+.icon-yintian:before {
+  content: "\e66b";
+}
+
+.icon-shengdan-xiaxue:before {
+  content: "\e7ac";
+}
+
+.icon-jiantouxiangxia:before {
+  content: "\e769";
+}
+

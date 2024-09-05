@@ -1,0 +1,28 @@
+
+export class daily{
+  fxDate:string = ''//日期
+  sunrise:string = ''
+  sunset:string = ''
+  moonrise:string = ''
+  moonPhase:string = ''
+  tempMax:string = ''
+  tempMin:string = ''
+  iconDay:string = ''
+  textDay:string = ''
+  iconNight:string = ''
+  textNight:string = ''
+  wind360Day:string =''
+  windDirDay:string = ''
+  windScaleDay:string = ''
+  windSpeedDay:string= ''
+  wind360Night:string= ''
+  windDirNight:string = ''
+  windScaleNight:string = ''
+  windSpeedNight:string = ''
+  humidity:string = ''
+  precip:string = ''
+  preessure:string = ''
+  vis:string = ''
+  cloud:string = ''
+  uvIndex:string = ''
+}
